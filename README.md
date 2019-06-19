@@ -7,4 +7,4 @@
 5. Lakukan perubahan pada file html di local lalu push ke github
 6. Lakukan perubahan pada file php di github lalu pull ke local
 7. kemudian cek history commit di repo github
-8. Tuliskan ID Akun Github di fitur comment pada repo ini
+8. Tuliskan Link repo Github kalian di fitur comment pada repo ini
